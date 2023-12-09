@@ -1,4 +1,4 @@
-# Maverik_GroupProject
+# Maverik Forecasting Time Series Analysis
 **Capstone Group Project Fall 2023**
 
 ## Business Problem Statement   
