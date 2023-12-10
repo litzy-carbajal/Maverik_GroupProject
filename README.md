@@ -13,7 +13,7 @@ To access the file please download it first:
 [DataCrafters_Modelling.html](https://github.com/litzy-carbajal/Maverik_GroupProject/blob/c64dee42d46a62e7c3209200a7f904824dd916e8/DataCrafters_Modelling.html)
 
 ## Presentation Slides
-DataCrafters Capstone Presentation .pdf
+[DataCrafters Capstone Presentation .pdf](https://github.com/litzy-carbajal/Maverik_GroupProject/blob/37175cb316fcb7048d3b01fee84734c8903186f8/DataCrafters%20Capstone%20Presentation%20.pdf)
 
 
 
